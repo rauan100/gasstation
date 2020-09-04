@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gas Station</string>
+    <string name="register_name_field">Nome</string>
+    <string name="register_id_field">Placa</string>
+    <string name="register_color_field">Cor</string>
+    <string name="register_btn_text">Cadastrar</string>
+    <string name="edit_btn_text">Editar</string>
+    <string name="vehicle_name">Nome do veículo</string>
+    <string name="gas_price">Valor da gasolina</string>
+    <string name="liters">Litros</string>
+    <string name="add">Adicionar</string>
+    <string name="open_vehicles">Veículos</string>
+    <string name="open_supply">Abastecimentos</string>
+</resources>
